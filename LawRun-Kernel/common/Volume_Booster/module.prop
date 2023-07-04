@@ -1,0 +1,6 @@
+id=VolumeBooster
+name=Volume Booster & Audio Quality
+version=v1.1
+versionCode=1
+author=ronks
+description=This module add more volume and doubles the number of steps in volume adjustment for both media and in-call volume.
